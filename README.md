@@ -1,5 +1,3 @@
-STOPPED AT MAKING UPLOAD VIDEO COMPONENT
-
 ## Project Setup
 
 1. Upon cloning this repo, add your node version in the "engines" section of the root package.json file.
